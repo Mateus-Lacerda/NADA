@@ -1,4 +1,4 @@
-NADA NASA's Automatic de Data Algorithm <br>
+NADA NASA's Automatic Data Algorithm <br>
 Funny script to run matrix style numbers rain<br>
 <br>
 System Requirements:<br>
