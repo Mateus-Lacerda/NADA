@@ -22,7 +22,7 @@ def line():
     return ''.join(str(x) for x in finalline)
 
 def main():
-    print(green("Bem vindo ao NADA - NASA\'s Automatic de Data Algorithm\nPara que a visualização se adeque a seu monitor, é importante escolher a quantidade de colunas de dados que deseja ver. Veja os exemplos e escolha:"))
+    print(green("Bem vindo ao NADA - NASA\'s Automatic Data Algorithm\nPara que a visualização se adeque a seu monitor, é importante escolher a quantidade de colunas de dados que deseja ver. Veja os exemplos e escolha:"))
     print(red('_______________________________________________________________________________________________________'))
     print(red("ATENÇÃO, OS DADOS GERADOS PARA AMOSTRAGEM NÃO SÃO SENSÍVEIS"))
     print(red("TODOS OS DADOS SENSÍVEIS EXPLOITADOS AQUI PASSAM RÁPIDO DEMAIS PARA O OLHO HUMANO CONSEGUIR DISTINGUIR"))
