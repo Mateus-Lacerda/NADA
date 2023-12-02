@@ -10,7 +10,7 @@ Windows:<br>
 Run<br> 
 NADA.bat file<br>
 <br>
-Linux<br>
+Linux:<br>
 Right click on the folder<br>
 Click "Open in Terminal"<br>
 Run <br>
