@@ -1,15 +1,19 @@
-NADA NASA's Automatic Data Algorithm <br>
-Funny script to run matrix style numbers rain<br>
-<br>
-System Requirements:<br>
-Python 3.9 or higher<br>
-Running:<br><br>
-Windows:<br>
-Run<br> 
-NADA.bat file<br>
-<br>
-Linux:<br>
-Right click on the folder<br>
-Click "Open in Terminal"<br>
-Run <br>
-$ python NADA.py
+# NADA - NASA's Automatic Data Algorithm
+
+Funny script to run matrix-style numbers rain
+
+## System Requirements:
+
+- Python 3.9 or higher
+
+## Running:
+
+### Windows:
+
+Run `NADA.bat` file
+
+### Linux:
+
+1. Right-click on the folder
+2. Click "Open in Terminal"
+3. Run `$ python NADA.py`
