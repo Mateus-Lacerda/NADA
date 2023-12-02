@@ -148,13 +148,16 @@ def main():
     print(green('___________________________________________________________________'))
     columns = int(input(green('Eai, quantas vão ser? ')))
     choice = int(input(green('Para realizar configurções avançadas, digite 1. Para continuar, digite 0: ')))
+    if choice != 1: 
+       choice = 0 
+    else: None
     if choice == 1:
         opts = options(columns)
         speed = opts[0]
         color = opts[1]
         numbersLines = opts[2]
         spacesBetween = opts[3]
-    else:
+    elif choice == 0:
         speed = 0.001
         color = green
         numbersLines = 7
