@@ -4,8 +4,7 @@ Funny script to run matrix style numbers rain<br>
 System Requirements:<br>
 Python 3.9 or higher<br>
 
-Running:
-_______
+Running:<br>
 Windows:<br>
 Run<br> 
 NADA.bat file<br>
