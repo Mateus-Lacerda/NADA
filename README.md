@@ -1,19 +1,23 @@
 # NADA - NASA's Automatic Data Algorithm
 
-Funny script to run matrix-style numbers rain
+**NADA** is a humorous script that mimics the matrix-style numbers rain effect. It's a fun and creative way to display random numbers falling on your terminal.
 
 ## System Requirements:
 
 - Python 3.9 or higher
 
-## Running:
+## Running the Script:
 
 ### Windows:
 
-Run `NADA.bat` file
+1. Double-click on the `NADA.bat` file.
 
 ### Linux:
 
-1. Right-click on the folder
-2. Click "Open in Terminal"
-3. Run `$ python NADA.py`
+1. Right-click on the folder where the script is located.
+2. Select "Open in Terminal."
+
+3. Run the following command in the terminal:
+
+   ```bash
+   $ python NADA.py
